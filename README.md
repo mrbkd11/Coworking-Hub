@@ -24,8 +24,6 @@ To build a robust and scalable application, we employed a combination of modern 
 
 - **User Profiles**: Professionals can create profiles, showcasing their skills and interests to foster community connections within coworking spaces.
 
-- **Payment Gateway**: A secure and efficient payment system is in place for users to process transactions directly within the app.
-
 - **Ratings and Reviews**: After using a space, users can leave ratings and reviews, assisting others in making informed decisions.
 
 - **Admin Panel**: For space owners and administrators, the app includes a backend panel to manage listings, view analytics, and communicate with users.
